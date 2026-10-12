@@ -1,0 +1,101 @@
+student_id,student_name,department,year,preference_1,preference_2,preference_3,preference_4,preference_5,AI_Lab_Capacity,DBMS_Lab_Capacity,Java_Lab_Capacity,Python_Lab_Capacity,Computer_Networks_Lab_Capacity,Operating_Systems_Lab_Capacity,Data_Science_Lab_Capacity,Cyber_Security_Lab_Capacity
+S001,Aarav,CSE,2,Computer Networks Lab,AI Lab,DBMS Lab,Operating Systems Lab,Data Science Lab,10,8,10,9,8,9,8,8
+S002,Aditi,IT,3,AI Lab,Java Lab,DBMS Lab,Python Lab,Computer Networks Lab,10,8,10,9,8,9,8,8
+S003,Aditya,AI&DS,2,Python Lab,DBMS Lab,Data Science Lab,AI Lab,Operating Systems Lab,10,8,10,9,8,9,8,8
+S004,Ananya,CSE-DS,3,Java Lab,AI Lab,Cyber Security Lab,Data Science Lab,Computer Networks Lab,10,8,10,9,8,9,8,8
+S005,Arjun,CSE,2,Data Science Lab,Operating Systems Lab,Python Lab,Cyber Security Lab,Java Lab,10,8,10,9,8,9,8,8
+S006,Diya,IT,3,Python Lab,Data Science Lab,Computer Networks Lab,Operating Systems Lab,AI Lab,10,8,10,9,8,9,8,8
+S007,Ishaan,AI&DS,2,DBMS Lab,AI Lab,Computer Networks Lab,Java Lab,Cyber Security Lab,10,8,10,9,8,9,8,8
+S008,Kavya,CSE-DS,3,Computer Networks Lab,DBMS Lab,Operating Systems Lab,AI Lab,Java Lab,10,8,10,9,8,9,8,8
+S009,Kiran,CSE,2,Cyber Security Lab,Computer Networks Lab,Python Lab,Data Science Lab,Operating Systems Lab,10,8,10,9,8,9,8,8
+S010,Meera,IT,3,DBMS Lab,AI Lab,Java Lab,Cyber Security Lab,Data Science Lab,10,8,10,9,8,9,8,8
+S011,Nikhil,AI&DS,2,Java Lab,Computer Networks Lab,Data Science Lab,Python Lab,DBMS Lab,10,8,10,9,8,9,8,8
+S012,Nisha,CSE-DS,3,DBMS Lab,Python Lab,Data Science Lab,Java Lab,Cyber Security Lab,10,8,10,9,8,9,8,8
+S013,Pranav,CSE,2,Python Lab,AI Lab,Computer Networks Lab,Operating Systems Lab,Java Lab,10,8,10,9,8,9,8,8
+S014,Priya,IT,3,AI Lab,Java Lab,Cyber Security Lab,Python Lab,Data Science Lab,10,8,10,9,8,9,8,8
+S015,Rahul,AI&DS,2,AI Lab,Operating Systems Lab,Computer Networks Lab,Python Lab,DBMS Lab,10,8,10,9,8,9,8,8
+S016,Riya,CSE-DS,3,Computer Networks Lab,AI Lab,Java Lab,Cyber Security Lab,Data Science Lab,10,8,10,9,8,9,8,8
+S017,Rohan,CSE,2,DBMS Lab,Python Lab,Data Science Lab,Computer Networks Lab,AI Lab,10,8,10,9,8,9,8,8
+S018,Saanvi,IT,3,Operating Systems Lab,Python Lab,AI Lab,Java Lab,Cyber Security Lab,10,8,10,9,8,9,8,8
+S019,Sahil,AI&DS,2,Data Science Lab,Java Lab,AI Lab,Cyber Security Lab,Python Lab,10,8,10,9,8,9,8,8
+S020,Sneha,CSE-DS,3,AI Lab,Operating Systems Lab,Python Lab,DBMS Lab,Data Science Lab,10,8,10,9,8,9,8,8
+S021,Tanvi,CSE,2,Java Lab,DBMS Lab,Python Lab,Operating Systems Lab,Cyber Security Lab,10,8,10,9,8,9,8,8
+S022,Varun,IT,3,Computer Networks Lab,Java Lab,Python Lab,AI Lab,DBMS Lab,10,8,10,9,8,9,8,8
+S023,Vivek,AI&DS,2,Java Lab,Python Lab,DBMS Lab,AI Lab,Computer Networks Lab,10,8,10,9,8,9,8,8
+S024,Yash,CSE-DS,3,DBMS Lab,Data Science Lab,AI Lab,Computer Networks Lab,Cyber Security Lab,10,8,10,9,8,9,8,8
+S025,Zoya,CSE,2,Python Lab,Operating Systems Lab,Data Science Lab,DBMS Lab,AI Lab,10,8,10,9,8,9,8,8
+S026,Aarav,IT,3,Java Lab,Python Lab,Operating Systems Lab,Computer Networks Lab,Cyber Security Lab,10,8,10,9,8,9,8,8
+S027,Aditi,AI&DS,2,AI Lab,Java Lab,Data Science Lab,DBMS Lab,Cyber Security Lab,10,8,10,9,8,9,8,8
+S028,Aditya,CSE-DS,3,Java Lab,Data Science Lab,Python Lab,AI Lab,Cyber Security Lab,10,8,10,9,8,9,8,8
+S029,Ananya,CSE,2,Data Science Lab,Cyber Security Lab,AI Lab,Python Lab,DBMS Lab,10,8,10,9,8,9,8,8
+S030,Arjun,IT,3,Java Lab,AI Lab,Cyber Security Lab,DBMS Lab,Operating Systems Lab,10,8,10,9,8,9,8,8
+S031,Diya,AI&DS,2,Java Lab,Cyber Security Lab,Python Lab,Operating Systems Lab,AI Lab,10,8,10,9,8,9,8,8
+S032,Ishaan,CSE-DS,3,DBMS Lab,Cyber Security Lab,Python Lab,Operating Systems Lab,AI Lab,10,8,10,9,8,9,8,8
+S033,Kavya,CSE,2,Python Lab,Data Science Lab,AI Lab,Cyber Security Lab,DBMS Lab,10,8,10,9,8,9,8,8
+S034,Kiran,IT,3,Python Lab,Computer Networks Lab,DBMS Lab,AI Lab,Data Science Lab,10,8,10,9,8,9,8,8
+S035,Meera,AI&DS,2,DBMS Lab,Python Lab,Computer Networks Lab,Java Lab,Cyber Security Lab,10,8,10,9,8,9,8,8
+S036,Nikhil,CSE-DS,3,DBMS Lab,Operating Systems Lab,Java Lab,Computer Networks Lab,AI Lab,10,8,10,9,8,9,8,8
+S037,Nisha,CSE,2,Python Lab,Cyber Security Lab,AI Lab,DBMS Lab,Data Science Lab,10,8,10,9,8,9,8,8
+S038,Pranav,IT,3,Data Science Lab,Java Lab,AI Lab,Operating Systems Lab,Computer Networks Lab,10,8,10,9,8,9,8,8
+S039,Priya,AI&DS,2,Cyber Security Lab,Computer Networks Lab,AI Lab,Data Science Lab,Java Lab,10,8,10,9,8,9,8,8
+S040,Rahul,CSE-DS,3,Computer Networks Lab,Cyber Security Lab,AI Lab,Python Lab,DBMS Lab,10,8,10,9,8,9,8,8
+S041,Riya,CSE,2,Computer Networks Lab,Operating Systems Lab,DBMS Lab,Python Lab,Data Science Lab,10,8,10,9,8,9,8,8
+S042,Rohan,IT,3,Data Science Lab,AI Lab,Java Lab,DBMS Lab,Operating Systems Lab,10,8,10,9,8,9,8,8
+S043,Saanvi,AI&DS,2,Computer Networks Lab,DBMS Lab,Operating Systems Lab,Python Lab,Java Lab,10,8,10,9,8,9,8,8
+S044,Sahil,CSE-DS,3,AI Lab,Data Science Lab,Python Lab,Java Lab,DBMS Lab,10,8,10,9,8,9,8,8
+S045,Sneha,CSE,2,DBMS Lab,AI Lab,Operating Systems Lab,Data Science Lab,Java Lab,10,8,10,9,8,9,8,8
+S046,Tanvi,IT,3,Computer Networks Lab,AI Lab,Cyber Security Lab,Data Science Lab,Operating Systems Lab,10,8,10,9,8,9,8,8
+S047,Varun,AI&DS,2,Java Lab,Cyber Security Lab,Data Science Lab,DBMS Lab,Operating Systems Lab,10,8,10,9,8,9,8,8
+S048,Vivek,CSE-DS,3,AI Lab,Data Science Lab,DBMS Lab,Python Lab,Java Lab,10,8,10,9,8,9,8,8
+S049,Yash,CSE,2,Data Science Lab,DBMS Lab,AI Lab,Java Lab,Cyber Security Lab,10,8,10,9,8,9,8,8
+S050,Zoya,IT,3,DBMS Lab,Computer Networks Lab,Java Lab,Cyber Security Lab,Python Lab,10,8,10,9,8,9,8,8
+S051,Aarav,AI&DS,2,Cyber Security Lab,AI Lab,DBMS Lab,Java Lab,Operating Systems Lab,10,8,10,9,8,9,8,8
+S052,Aditi,CSE-DS,3,Java Lab,Computer Networks Lab,Python Lab,DBMS Lab,Operating Systems Lab,10,8,10,9,8,9,8,8
+S053,Aditya,CSE,2,AI Lab,Cyber Security Lab,Python Lab,Operating Systems Lab,Computer Networks Lab,10,8,10,9,8,9,8,8
+S054,Ananya,IT,3,Java Lab,AI Lab,Computer Networks Lab,Data Science Lab,Operating Systems Lab,10,8,10,9,8,9,8,8
+S055,Arjun,AI&DS,2,Java Lab,DBMS Lab,AI Lab,Cyber Security Lab,Computer Networks Lab,10,8,10,9,8,9,8,8
+S056,Diya,CSE-DS,3,Data Science Lab,Computer Networks Lab,Java Lab,Python Lab,AI Lab,10,8,10,9,8,9,8,8
+S057,Ishaan,CSE,2,DBMS Lab,Java Lab,Python Lab,Computer Networks Lab,Data Science Lab,10,8,10,9,8,9,8,8
+S058,Kavya,IT,3,Data Science Lab,DBMS Lab,AI Lab,Python Lab,Computer Networks Lab,10,8,10,9,8,9,8,8
+S059,Kiran,AI&DS,2,Java Lab,Data Science Lab,Operating Systems Lab,Computer Networks Lab,DBMS Lab,10,8,10,9,8,9,8,8
+S060,Meera,CSE-DS,3,DBMS Lab,AI Lab,Python Lab,Data Science Lab,Java Lab,10,8,10,9,8,9,8,8
+S061,Nikhil,CSE,2,Computer Networks Lab,DBMS Lab,Operating Systems Lab,Python Lab,AI Lab,10,8,10,9,8,9,8,8
+S062,Nisha,IT,3,Operating Systems Lab,AI Lab,Java Lab,DBMS Lab,Cyber Security Lab,10,8,10,9,8,9,8,8
+S063,Pranav,AI&DS,2,Python Lab,AI Lab,DBMS Lab,Data Science Lab,Java Lab,10,8,10,9,8,9,8,8
+S064,Priya,CSE-DS,3,Data Science Lab,Computer Networks Lab,Cyber Security Lab,Python Lab,Operating Systems Lab,10,8,10,9,8,9,8,8
+S065,Rahul,CSE,2,Python Lab,Data Science Lab,Operating Systems Lab,DBMS Lab,Computer Networks Lab,10,8,10,9,8,9,8,8
+S066,Riya,IT,3,Operating Systems Lab,Python Lab,Computer Networks Lab,DBMS Lab,AI Lab,10,8,10,9,8,9,8,8
+S067,Rohan,AI&DS,2,DBMS Lab,Java Lab,Python Lab,AI Lab,Operating Systems Lab,10,8,10,9,8,9,8,8
+S068,Saanvi,CSE-DS,3,Operating Systems Lab,AI Lab,Java Lab,Python Lab,DBMS Lab,10,8,10,9,8,9,8,8
+S069,Sahil,CSE,2,Java Lab,Data Science Lab,Python Lab,Operating Systems Lab,AI Lab,10,8,10,9,8,9,8,8
+S070,Sneha,IT,3,Java Lab,Operating Systems Lab,Data Science Lab,Cyber Security Lab,Python Lab,10,8,10,9,8,9,8,8
+S071,Tanvi,AI&DS,2,Computer Networks Lab,DBMS Lab,Java Lab,AI Lab,Python Lab,10,8,10,9,8,9,8,8
+S072,Varun,CSE-DS,3,AI Lab,Computer Networks Lab,Java Lab,Python Lab,DBMS Lab,10,8,10,9,8,9,8,8
+S073,Vivek,CSE,2,Java Lab,Operating Systems Lab,Data Science Lab,DBMS Lab,AI Lab,10,8,10,9,8,9,8,8
+S074,Yash,IT,3,AI Lab,Python Lab,Cyber Security Lab,Java Lab,Computer Networks Lab,10,8,10,9,8,9,8,8
+S075,Zoya,AI&DS,2,Operating Systems Lab,Computer Networks Lab,Cyber Security Lab,DBMS Lab,AI Lab,10,8,10,9,8,9,8,8
+S076,Aarav,CSE-DS,3,AI Lab,Computer Networks Lab,Python Lab,DBMS Lab,Operating Systems Lab,10,8,10,9,8,9,8,8
+S077,Aditi,CSE,2,Operating Systems Lab,AI Lab,Computer Networks Lab,Data Science Lab,Cyber Security Lab,10,8,10,9,8,9,8,8
+S078,Aditya,IT,3,AI Lab,Java Lab,Computer Networks Lab,Cyber Security Lab,Operating Systems Lab,10,8,10,9,8,9,8,8
+S079,Ananya,AI&DS,2,AI Lab,Computer Networks Lab,Operating Systems Lab,Data Science Lab,Cyber Security Lab,10,8,10,9,8,9,8,8
+S080,Arjun,CSE-DS,3,Operating Systems Lab,Java Lab,Python Lab,Data Science Lab,AI Lab,10,8,10,9,8,9,8,8
+S081,Diya,CSE,2,Cyber Security Lab,Computer Networks Lab,Data Science Lab,Operating Systems Lab,Java Lab,10,8,10,9,8,9,8,8
+S082,Ishaan,IT,3,Operating Systems Lab,Cyber Security Lab,DBMS Lab,Data Science Lab,Python Lab,10,8,10,9,8,9,8,8
+S083,Kavya,AI&DS,2,Python Lab,Java Lab,Operating Systems Lab,DBMS Lab,Data Science Lab,10,8,10,9,8,9,8,8
+S084,Kiran,CSE-DS,3,Data Science Lab,AI Lab,DBMS Lab,Python Lab,Computer Networks Lab,10,8,10,9,8,9,8,8
+S085,Meera,CSE,2,Java Lab,AI Lab,Data Science Lab,DBMS Lab,Operating Systems Lab,10,8,10,9,8,9,8,8
+S086,Nikhil,IT,3,DBMS Lab,AI Lab,Cyber Security Lab,Operating Systems Lab,Python Lab,10,8,10,9,8,9,8,8
+S087,Nisha,AI&DS,2,Operating Systems Lab,Computer Networks Lab,Python Lab,AI Lab,DBMS Lab,10,8,10,9,8,9,8,8
+S088,Pranav,CSE-DS,3,Operating Systems Lab,Java Lab,Python Lab,DBMS Lab,AI Lab,10,8,10,9,8,9,8,8
+S089,Priya,CSE,2,DBMS Lab,AI Lab,Python Lab,Operating Systems Lab,Cyber Security Lab,10,8,10,9,8,9,8,8
+S090,Rahul,IT,3,Python Lab,DBMS Lab,AI Lab,Cyber Security Lab,Operating Systems Lab,10,8,10,9,8,9,8,8
+S091,Riya,AI&DS,2,AI Lab,Data Science Lab,Python Lab,Java Lab,DBMS Lab,10,8,10,9,8,9,8,8
+S092,Rohan,CSE-DS,3,AI Lab,Cyber Security Lab,Python Lab,Data Science Lab,Java Lab,10,8,10,9,8,9,8,8
+S093,Saanvi,CSE,2,AI Lab,Computer Networks Lab,Python Lab,Java Lab,Cyber Security Lab,10,8,10,9,8,9,8,8
+S094,Sahil,IT,3,AI Lab,Operating Systems Lab,Computer Networks Lab,DBMS Lab,Python Lab,10,8,10,9,8,9,8,8
+S095,Sneha,AI&DS,2,Java Lab,Data Science Lab,Cyber Security Lab,Computer Networks Lab,Operating Systems Lab,10,8,10,9,8,9,8,8
+S096,Tanvi,CSE-DS,3,Cyber Security Lab,DBMS Lab,Computer Networks Lab,AI Lab,Java Lab,10,8,10,9,8,9,8,8
+S097,Varun,CSE,2,Python Lab,DBMS Lab,Operating Systems Lab,Java Lab,Computer Networks Lab,10,8,10,9,8,9,8,8
+S098,Vivek,IT,3,Cyber Security Lab,Operating Systems Lab,Computer Networks Lab,Java Lab,Python Lab,10,8,10,9,8,9,8,8
+S099,Yash,AI&DS,2,Computer Networks Lab,Data Science Lab,AI Lab,Java Lab,Operating Systems Lab,10,8,10,9,8,9,8,8
+S100,Zoya,CSE-DS,3,Python Lab,DBMS Lab,AI Lab,Computer Networks Lab,Operating Systems Lab,10,8,10,9,8,9,8,8
